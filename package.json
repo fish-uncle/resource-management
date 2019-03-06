@@ -1,0 +1,24 @@
+{
+  "name": "resource-management",
+  "version": "1.0.0",
+  "description": "前端资源管理，好用的导航",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "javascript",
+    "resource-management",
+    "fishuncle"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fish-uncle/resource-management.git"
+  },
+  "author": "fishuncle",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  }
+}
