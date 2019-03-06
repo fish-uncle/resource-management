@@ -61,7 +61,7 @@
 * [webpack 指南与webpack4升级](https://gitee.com/shenzhepei/blog/issues/IMVQL)
 * [有用的 git 建议](https://gitee.com/shenzhepei/blog/issues/IMVQE)
 * [渐进式 Web Apps](https://gitee.com/shenzhepei/blog/issues/IN2RK)
-* [自建 DNS 服务器：Dnsmasq](https://gitee.com/shenzhepei/blog/issues/IMNXM)
+* [自建 DNS 服务器：Dnsmasq](https://github.com/fish-uncle/resource-management/issues/2)
 * [29个你必须知道的 Linux 命令](https://gitee.com/shenzhepei/blog/issues/IMVRK)
 * [Docker 基础命令](https://gitee.com/shenzhepei/blog/issues/IN2PJ)
 * [H5 唤起 APP 的解决方案 callapp-lib](https://github.com/suanmei/callapp-lib)
