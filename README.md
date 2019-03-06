@@ -56,7 +56,7 @@
 
 ### 转载文章
 * [Node.js 安全清单](https://github.com/fish-uncle/resource-management/issues/6)
-* [CSS 黑魔法小技巧，让你少写不必要的 JS，代码更优雅](https://gitee.com/shenzhepei/blog/issues/IMVZ6)
+* [CSS 黑魔法小技巧，让你少写不必要的 JS，代码更优雅](https://github.com/fish-uncle/resource-management/issues/7)
 * [前端资料Share](https://github.com/Wscats/Good-text-Share)
 * [webpack 指南与webpack4升级](https://gitee.com/shenzhepei/blog/issues/IMVQL)
 * [有用的 git 建议](https://gitee.com/shenzhepei/blog/issues/IMVQE)
