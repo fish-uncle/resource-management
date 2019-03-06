@@ -23,7 +23,7 @@
 
 #### 正则
 * [正则解析图 图解 regexper](https://github.com/javallone/regexper)
-* [常用正则表达式](https://gitee.com/shenzhepei/blog/issues/IMNY0)
+* [常用正则表达式](https://github.com/fish-uncle/resource-management/issues/14)
 
 #### 日期处理
 * [轻量级的 JavaScript 日期库 date-fns](https://github.com/date-fns/date-fns)
@@ -72,8 +72,7 @@
 * [docker 配置文件](https://github.com/fish-uncle/resource-management/issues/13)
 * [nginx 配置文件详解](https://github.com/fish-uncle/resource-management/issues/9)
 * [redis 配置文件 redis.conf 参数说明](https://github.com/fish-uncle/resource-management/issues/8)
-* [gulp 使用](https://gitee.com/shenzhepei/blog/issues/IMNXR)
-* [神策一个统计分析类产品](https://gitee.com/shenzhepei/blog/issues/IO4RT)
-* [几个经典算法](https://gitee.com/shenzhepei/blog/issues/IMVOO)
+* [gulp 使用](https://github.com/fish-uncle/resource-management/issues/16)
+* [几个经典算法](https://github.com/fish-uncle/resource-management/issues/15)
 
 
