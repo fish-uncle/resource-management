@@ -20,8 +20,7 @@
 * [类似postman api测试系统](https://github.com/brookshi/Hitchhiker)
 
 #### 功能型
-
-* [bundleid查询] (https://offcornerdev.com/bundleid.html)
+* [bundleid查询](https://offcornerdev.com/bundleid.html)
 
 #### 正则
 * [正则解析图 图解 regexper](https://github.com/javallone/regexper)
@@ -62,18 +61,18 @@
 * [Node.js 安全清单](https://github.com/fish-uncle/resource-management/issues/6)
 * [CSS 黑魔法小技巧，让你少写不必要的 JS，代码更优雅](https://github.com/fish-uncle/resource-management/issues/7)
 * [前端资料Share](https://github.com/Wscats/Good-text-Share)
-* [webpack 指南与webpack4升级](https://gitee.com/shenzhepei/blog/issues/IMVQL)
-* [有用的 git 建议](https://gitee.com/shenzhepei/blog/issues/IMVQE)
+* [webpack 指南与webpack4升级](https://github.com/fish-uncle/resource-management/issues/11)
+* [有用的 git 建议](https://github.com/fish-uncle/resource-management/issues/10)
 * [渐进式 Web Apps](https://gitee.com/shenzhepei/blog/issues/IN2RK)
 * [自建 DNS 服务器：Dnsmasq](https://github.com/fish-uncle/resource-management/issues/2)
 * [29个你必须知道的 Linux 命令](https://github.com/fish-uncle/resource-management/issues/4)
-* [Docker 基础命令](https://gitee.com/shenzhepei/blog/issues/IN2PJ)
+* [Docker 基础命令](https://github.com/fish-uncle/resource-management/issues/12)
 * [H5 唤起 APP 的解决方案 callapp-lib](https://github.com/suanmei/callapp-lib)
 * [简历模板](https://github.com/fish-uncle/resource-management/issues/3) 
 
 ### 未分类
-* [nginx 配置文件详解](https://gitee.com/shenzhepei/blog/issues/IN2Q6)
-* [redis 配置文件 redis.conf 参数说明](https://gitee.com/shenzhepei/blog/issues/IN2TQ)
+* [nginx 配置文件详解](https://github.com/fish-uncle/resource-management/issues/9)
+* [redis 配置文件 redis.conf 参数说明](https://github.com/fish-uncle/resource-management/issues/8)
 * [gulp 使用](https://gitee.com/shenzhepei/blog/issues/IMNXR)
 * [神策一个统计分析类产品](https://gitee.com/shenzhepei/blog/issues/IO4RT)
 * [几个经典算法](https://gitee.com/shenzhepei/blog/issues/IMVOO)
