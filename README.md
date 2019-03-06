@@ -6,7 +6,6 @@
 #### 系统级
 * [免费翻墙工具 XX-Net](https://github.com/XX-net/XX-Net)
 * [window 下控制 nodejs 的版本 nvmw](https://github.com/hakobera/nvmw)
-* [docker 配置文件](https://gitee.com/shenzhepei/blog/issues/IN4U6) 
 
 #### SSL
 * [SSL For Free 申请免费https SSL 凭证](https://github.com/fish-uncle/resource-management/issues/1)
@@ -54,7 +53,6 @@
 * [ant-design](https://github.com/ant-design/ant-design)
 
 #### 调试
-
 * [eruda 移动端调试神器](https://github.com/liriliri/eruda)
 
 ### 转载文章
@@ -71,6 +69,7 @@
 * [简历模板](https://github.com/fish-uncle/resource-management/issues/3) 
 
 ### 未分类
+* [docker 配置文件](https://github.com/fish-uncle/resource-management/issues/13)
 * [nginx 配置文件详解](https://github.com/fish-uncle/resource-management/issues/9)
 * [redis 配置文件 redis.conf 参数说明](https://github.com/fish-uncle/resource-management/issues/8)
 * [gulp 使用](https://gitee.com/shenzhepei/blog/issues/IMNXR)
