@@ -12,13 +12,20 @@
 * [SSL For Free 申请免费https SSL 凭证](https://github.com/fish-uncle/resource-management/issues/1)
 
 ### Linux
-* [在Linux上安装node.js环境](https://github.com/fish-uncle/resource-management/issues/5) 
+* [在Linux上安装node.js环境](https://github.com/fish-uncle/resource-management/issues/22) 
 
 ### 管理系统
 * [node 管理系统 提供 API mock 数据 easy-mock](https://github.com/easy-mock/easy-mock)
 * [web 自动部署系统工具 瓦力 walle-web](https://github.com/meolu/walle-web)
 * [类似postman api测试系统 Hitchhiker](https://github.com/brookshi/Hitchhiker)
 * [Redis Desktop Manager](https://redisdesktop.com/download)
+* [easy-mock](https://github.com/easy-mock/easy-mock)
+* [walle-web](https://github.com/meolu/walle-web)
+* [jenkins](https://github.com/jenkinsci/jenkins)
+* [禅道](https://www.zentao.net/)
+* [confluence](https://www.jianshu.com/p/e1fe82e28f4c)
+* [gitlab](https://github.com/gitlabhq/gitlabhq)
+* [Nexus](https://blog.csdn.net/chenfei2341/article/details/80431700)
 
 ### 功能型
 * [bundleid查询](https://offcornerdev.com/bundleid.html)
@@ -78,6 +85,10 @@
 
 ## 转载文章
 * [配置本地安全策略：密码账户策略](https://jingyan.baidu.com/article/ae97a646aaadaebbfd461d9b.html)
+* [高并发方案](https://github.com/fish-uncle/resource-management/issues/21)
+* [网站安全性方案](https://github.com/fish-uncle/resource-management/issues/19)
+* [统一Nodejs日志方案](https://github.com/fish-uncle/resource-management/issues/18)
+* [readme书写](https://github.com/fish-uncle/resource-management/issues/20)
 * [如何限制对注册表的远程访问](https://jingyan.baidu.com/article/9f63fb91d17dbbc8400f0e91.html)
 * [Node.js 安全清单](https://github.com/fish-uncle/resource-management/issues/6)
 * [CSS 黑魔法小技巧，让你少写不必要的 JS，代码更优雅](https://github.com/fish-uncle/resource-management/issues/7)
