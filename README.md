@@ -12,7 +12,7 @@
 * [SSL For Free 申请免费https SSL 凭证](https://github.com/fish-uncle/resource-management/issues/1)
 
 #### Linux
-* [在Linux上安装node.js环境](https://gitee.com/shenzhepei/blog/issues/IN4U3) 
+* [在Linux上安装node.js环境](https://github.com/fish-uncle/resource-management/issues/5) 
 
 #### 管理系统
 * [node 管理系统 提供 API mock 数据 easy-mock](https://github.com/easy-mock/easy-mock)
