@@ -61,7 +61,7 @@
 * [前端资料Share](https://github.com/Wscats/Good-text-Share)
 * [webpack 指南与webpack4升级](https://github.com/fish-uncle/resource-management/issues/11)
 * [有用的 git 建议](https://github.com/fish-uncle/resource-management/issues/10)
-* [渐进式 Web Apps](https://gitee.com/shenzhepei/blog/issues/IN2RK)
+* [渐进式 Web Apps](https://github.com/fish-uncle/resource-management/issues/17)
 * [自建 DNS 服务器：Dnsmasq](https://github.com/fish-uncle/resource-management/issues/2)
 * [29个你必须知道的 Linux 命令](https://github.com/fish-uncle/resource-management/issues/4)
 * [Docker 基础命令](https://github.com/fish-uncle/resource-management/issues/12)
