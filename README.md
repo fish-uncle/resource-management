@@ -15,8 +15,8 @@
 
 #### 管理系统
 * [node 管理系统 提供 API mock 数据 easy-mock](https://github.com/easy-mock/easy-mock)
-* [web 自动部署系统工具 瓦力 walle](https://github.com/meolu/walle-web)
-* [类似postman api测试系统](https://github.com/brookshi/Hitchhiker)
+* [web 自动部署系统工具 瓦力 walle-web](https://github.com/meolu/walle-web)
+* [类似postman api测试系统 Hitchhiker](https://github.com/brookshi/Hitchhiker)
 
 #### 功能型
 * [bundleid查询](https://offcornerdev.com/bundleid.html)
@@ -31,19 +31,19 @@
 
 #### 轮播
 * [React 轮播 小大小结构极好用 react-view-pager](https://github.com/souporserious/react-view-pager)
-* [React 轮播 Swiper4](https://github.com/fish-uncle/swiper-easy) `fish-uncle`
+* [React 轮播 Swiper4 swiper-easy](https://github.com/fish-uncle/swiper-easy) `fish-uncle`
 
 #### 键盘
-* [React 九宫格数字键盘](https://github.com/fish-uncle/keypad-easy) `fish-uncle`
+* [React 九宫格数字键盘 keypad-easy](https://github.com/fish-uncle/keypad-easy) `fish-uncle`
 * [仿 iOS 底部选择框 loseYourself](https://github.com/icepy/loseYourself)
 * [图片懒加载 img-2](https://github.com/RevillWeb/img-2)
 
 #### ajax
-* [React fetch](https://github.com/matthew-andrews/isomorphic-fetch)
+* [React isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)
 
 #### node
 * [nodejs 验证码生成 node-gd-bmp](https://github.com/zengming00/node-gd-bmp)
-* [egg 企业级框架](https://github.com/eggjs/egg)
+* [企业级框架 egg](https://github.com/eggjs/egg)
 
 #### ie 兼容
 * [HTML5 低版本兼容 html5shiv](https://github.com/aFarkas/html5shiv)
@@ -53,7 +53,7 @@
 * [ant-design](https://github.com/ant-design/ant-design)
 
 #### 调试
-* [eruda 移动端调试神器](https://github.com/liriliri/eruda)
+* [移动端调试神器 eruda](https://github.com/liriliri/eruda)
 
 ### 转载文章
 * [Node.js 安全清单](https://github.com/fish-uncle/resource-management/issues/6)
