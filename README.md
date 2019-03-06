@@ -19,6 +19,10 @@
 * [web 自动部署系统工具 瓦力 walle](https://github.com/meolu/walle-web)
 * [类似postman api测试系统](https://github.com/brookshi/Hitchhiker)
 
+#### 功能型
+
+* [bundleid查询] (https://offcornerdev.com/bundleid.html)
+
 #### 正则
 * [正则解析图 图解 regexper](https://github.com/javallone/regexper)
 * [常用正则表达式](https://gitee.com/shenzhepei/blog/issues/IMNY0)
