@@ -55,6 +55,10 @@
 ### 上传压缩图片
 *[localResizeIMG lrz](https://github.com/think2011/localResizeIMG)
 
+## 动画
+### react动画
+* [react-spring](https://github.com/react-spring/react-spring)
+
 ## UI
 ### 全套
 * [ant-design](https://github.com/ant-design/ant-design)
