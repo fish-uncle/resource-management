@@ -108,6 +108,7 @@
 * [chrome卸载不干净之后再安装无法成功](https://blog.csdn.net/u012881466/article/details/81741451) 
 * [浏览器工作原理详解](https://blog.csdn.net/dangnian/article/details/50876241) 
 * [前端监控系统 JS错误日志收集篇](https://zhuanlan.zhihu.com/p/35771536) 
+* [谈谈前端异常捕获与上报](http://www.cnblogs.com/luozhihao/p/8635507.html)
 
 ## demo
 * [手把手教你用 JavaScript 实现一个简单的国际象棋 AI](https://segmentfault.com/a/1190000009143078) 
