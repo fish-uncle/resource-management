@@ -26,6 +26,10 @@
 * [confluence](https://www.jianshu.com/p/e1fe82e28f4c)
 * [gitlab](https://github.com/gitlabhq/gitlabhq)
 * [Nexus](https://blog.csdn.net/chenfei2341/article/details/80431700)
+* [npm 私库 verdaccio](https://github.com/verdaccio/verdaccio)
+
+### 终端
+* [终端二维码 qrcode-terminal](https://github.com/gtanner/qrcode-terminal)
 
 ### 功能型
 * [bundleid查询](https://offcornerdev.com/bundleid.html)
