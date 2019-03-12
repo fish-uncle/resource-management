@@ -53,7 +53,7 @@
 * [移动端调试神器 eruda](https://github.com/liriliri/eruda)
 
 ### 上传压缩图片
-*[localResizeIMG lrz](https://github.com/think2011/localResizeIMG)
+* [localResizeIMG lrz](https://github.com/think2011/localResizeIMG)
 
 ## 动画
 ### react动画
