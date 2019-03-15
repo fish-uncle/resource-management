@@ -92,6 +92,9 @@
 * [echarts](https://github.com/apache/incubator-echarts)
 
 ## 转载文章
+* [浅说移动前端中 Viewport 和 Viewport units](https://github.com/dwqs/blog/issues/69)
+* [ES6 Class Methods 定义方式的差异](https://github.com/dwqs/blog/issues/67)
+* [处理 undefined 值的7个建议](https://github.com/dwqs/blog/issues/64)
 * [配置本地安全策略：密码账户策略](https://jingyan.baidu.com/article/ae97a646aaadaebbfd461d9b.html)
 * [高并发方案](https://github.com/fish-uncle/resource-management/issues/21)
 * [网站安全性方案](https://github.com/fish-uncle/resource-management/issues/19)
@@ -115,6 +118,7 @@
 * [谈谈前端异常捕获与上报](http://www.cnblogs.com/luozhihao/p/8635507.html)
 
 ## demo
+* [钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS](https://github.com/nashaofu/dingtalk) 
 * [手把手教你用 JavaScript 实现一个简单的国际象棋 AI](https://segmentfault.com/a/1190000009143078) 
 * [大鱼吃小鱼 canvas](https://github.com/luckykun/tinyHeart) 
 * [html5 canvas榨橙汁动画特效](http://www.17sucai.com/pins/25142.html) 
