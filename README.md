@@ -19,13 +19,12 @@
 * [web 自动部署系统工具 瓦力 walle-web](https://github.com/meolu/walle-web)
 * [类似postman api测试系统 Hitchhiker](https://github.com/brookshi/Hitchhiker)
 * [Redis Desktop Manager](https://redisdesktop.com/download)
-* [easy-mock](https://github.com/easy-mock/easy-mock)
-* [walle-web](https://github.com/meolu/walle-web)
-* [jenkins](https://github.com/jenkinsci/jenkins)
+* [自动化部署 walle-web](https://github.com/meolu/walle-web)
+* [自动化部署 jenkins](https://github.com/jenkinsci/jenkins)
 * [禅道](https://www.zentao.net/)
-* [confluence](https://www.jianshu.com/p/e1fe82e28f4c)
+* [文档管理系统 confluence](https://www.jianshu.com/p/e1fe82e28f4c)
 * [gitlab](https://github.com/gitlabhq/gitlabhq)
-* [Nexus](https://blog.csdn.net/chenfei2341/article/details/80431700)
+* [npm 私库 、maven 私库、docker 私库等 Nexus](https://blog.csdn.net/chenfei2341/article/details/80431700)
 * [npm 私库 verdaccio](https://github.com/verdaccio/verdaccio)
 
 ### 终端
